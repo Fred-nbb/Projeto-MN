@@ -1,10 +1,10 @@
 # Métodos Numéricos - Problema 3 (Escoamento de Água)
 
-Projeto da disciplina INF1920 - Métodos Numéricos, 1º GQ.
+Projeto da disciplina - Métodos Numéricos, 1º GQ.
 
 ## Descrição
 
-Implementação de 5 métodos numéricos (sem uso de funções prontas) para
+Implementação de 5 métodos numéricos para
 encontrar a raiz da equação não linear que modela a altura de água
 necessária para atingir uma velocidade de escoamento desejada.
 
