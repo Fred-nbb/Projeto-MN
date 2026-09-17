@@ -1,0 +1,1 @@
+from .metodos import bisseccao, posicao_falsa, ponto_fixo, newton_raphson, secante
